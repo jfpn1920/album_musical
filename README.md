@@ -102,8 +102,6 @@
 
 <h2 align="center">Diagrama de flujo del proyecto</h2>
 
-<p align="justify">El diagrama de flujo representa la estructura del programa <b>Álbum Musical</b>, desde la inicialización de las variables y los arreglos hasta el menú principal y sus siete opciones. También muestra las decisiones que se toman al comprobar si existen registros, buscar identificadores, editar los datos, eliminar álbumes y recorrer los arreglos. Finalmente, representa el retorno al menú principal después de cada operación y la finalización del programa cuando se selecciona la opción de salida.</p>
-
 <img src="./album_musical.png" alt="Diagrama de flujo del proyecto Álbum Musical" width="100%">
 
 <h2 align="center">🛡️ Validaciones y consideraciones del programa</h2>
